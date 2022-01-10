@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700%7CThasadith');
+
+body {
+    font-family: 'Thasadith', sans-serif;
+    margin: 0;
+    background-color: lightblue;
+}
+
+.addList {
+    border: 1px solid black
+}
+
+.existingList {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.boughtList {
+    font-weight: bold;
+}
